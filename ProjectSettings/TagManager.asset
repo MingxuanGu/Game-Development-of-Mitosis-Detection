@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - carrot
+  - rabbit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1965034825
+    locked: 0
+  - name: fore
+    uniqueID: 221526845
+    locked: 0
+  - name: Congratulation
+    uniqueID: 3923713497
+    locked: 0
+  - name: welcome
+    uniqueID: 1012025161
+    locked: 0
+  - name: Mitosis
+    uniqueID: 2192347039
+    locked: 0
+  - name: Tutor
+    uniqueID: 527792077
+    locked: 0
+  - name: Frame
+    uniqueID: 1256702055
+    locked: 0
+  - name: Microscope
+    uniqueID: 3501987887
+    locked: 0
+  - name: Carrots
+    uniqueID: 2120782157
+    locked: 0
+  - name: Rabbit
+    uniqueID: 3139193381
+    locked: 0
+  - name: UI
+    uniqueID: 1479822287
+    locked: 0
