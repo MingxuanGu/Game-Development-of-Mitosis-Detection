@@ -2,6 +2,8 @@
 
 (It is a topic for the seminar "Medical image processing" in my study matrix)
 
+Introduction:
+
 The number of mitotic figures visible in histology sections is an important indicator for cancer screening and assessment
 the counting is performed manually by pathologists, histologists (This process is cumbersome)
 Mitotic cell may look alike, and this will make assessments more difficult
