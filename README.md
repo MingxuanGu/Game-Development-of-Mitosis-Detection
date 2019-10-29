@@ -20,3 +20,11 @@ the development of automated mitosis detection has become necessary and imperati
 Our game is to 1) train the players with labeld mitosis images 2) let the trained players label the unlabeld mitosis images and get the final label with a certain aggregation method.
 
 During the seminar, we finished the first part.
+
+Screenshots:
+
+![alt text](https://github.com/StormyaP/Game-Development-of-Mitosis-Detection/blob/master/screenshots/main%20page.png)
+![alt text](https://github.com/StormyaP/Game-Development-of-Mitosis-Detection/blob/master/screenshots/game%20play%201%20level.png)
+![alt text](https://github.com/StormyaP/Game-Development-of-Mitosis-Detection/blob/master/screenshots/restore.png)
+![alt text](https://github.com/StormyaP/Game-Development-of-Mitosis-Detection/blob/master/screenshots/result%20page.png)
+![alt text](https://github.com/StormyaP/Game-Development-of-Mitosis-Detection/blob/master/screenshots/Leaderboard.png)
