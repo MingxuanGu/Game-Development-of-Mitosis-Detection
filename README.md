@@ -1,6 +1,6 @@
 # Game-Development-of-Mitosis-Detection
 
-(It is a topic for the seminar "Medical image processing" in my study matrix)
+(It is a topic for the seminar "Advanced Algorithms in Medical Image Processing" in my study matrix)
 
 Introduction:
 
